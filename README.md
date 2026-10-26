@@ -3,7 +3,7 @@
 K12 知识库管理后台，覆盖内容接入、教材、题库、知识点、校对、审核、发布、评测、系统设置与学员问答。
 基于 `docs/front/yxp_front.pen` 的 9 屏设计稿实现，管理接口路径与《概要设计总纲》`/admin/v1` 保持一致。
 
-后端主仓库为 `yxp-edu-rag`（管理端 `apps/admin-api` + 学员端 `apps/kb-api`），本仓库只包含运营前端。
+后端主仓库为 [yxp-edu-rag](https://github.com/ZhangPengHui6/yxp-edu-rag)（管理端 `apps/admin-api` + 学员端 `apps/kb-api`），本仓库只包含运营前端。
 
 ## 运行
 
